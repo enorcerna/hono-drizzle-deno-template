@@ -19,8 +19,6 @@ git clone https://github.com/enorcerna/hono-drizzle-deno-template.git
 cd hono-drizzle-deno-template
 ```
 
-````
-
 ### 2. Install dependencies
 
 Deno uses URL-based imports, so there's no `package.json` required. Just make sure Deno is installed:
@@ -129,5 +127,6 @@ Deno.serve(app.fetch);
 
 MIT © 2025 - [@enorcerna]
 
+```
 
-````
+```
