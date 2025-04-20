@@ -1,0 +1,34 @@
+# node related files
+node_modules/
+# Deno-related files
+deno.lock
+deno.deps.ts
+deno.gen/
+
+# Build output
+/dist
+/build
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Drizzle ORM generated files (optional to ignore)
+/drizzle/
+*.sqlite
+*.db
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# IDE settings (e.g., VS Code)
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# others
+trash/
