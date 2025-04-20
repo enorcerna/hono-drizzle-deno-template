@@ -1,4 +1,3 @@
-````markdown
 # 🦕 Deno + Drizzle ORM + Hono Starter
 
 A minimal and modern starter project using **Deno**, **Drizzle ORM**, and **HonoJS** — perfect for building fast APIs with a clean developer experience.
@@ -19,6 +18,7 @@ A minimal and modern starter project using **Deno**, **Drizzle ORM**, and **Hono
 git clone https://github.com/enorcerna/hono-drizzle-deno-template.git
 cd hono-drizzle-deno-template
 ```
+
 ````
 
 ### 2. Install dependencies
@@ -129,8 +129,5 @@ Deno.serve(app.fetch);
 
 MIT © 2025 - [@enorcerna]
 
-```
 
----
-
-```
+````
